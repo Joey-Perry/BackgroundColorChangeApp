@@ -8,11 +8,3 @@
     <li>Arrays</li>
     <li>Math.random()</li>
 </ol>
-
-<h2> To do list of features </h2>
-
-<ol>
-    <li>Background canvas</li>
-    <li>Function that grabs background canvas</li>
-    <li>Button connected to function that grabs background canvas</li>
-</ol>
